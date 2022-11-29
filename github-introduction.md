@@ -8,6 +8,6 @@
 - local
 - branch
 - clone
-- repo
+- repo (repository)
 - GUI
 - markdown
