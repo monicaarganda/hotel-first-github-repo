@@ -1,8 +1,7 @@
  # Github Introduction
 
 ## Github Vocabulary
-
-- Git
+- git
 - Github
 - remote
 - local
