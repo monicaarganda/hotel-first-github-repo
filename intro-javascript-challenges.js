@@ -1,4 +1,4 @@
-# JAVASCRIPT INTRODUCTION CHALLENEGES
+JAVASCRIPT INTRODUCTION CHALLENEGES
 
 // In order to run file use command node <file name>
 
